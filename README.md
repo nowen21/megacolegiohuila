@@ -1,2 +1,0 @@
-# megacolegiohuila
-megacolegio

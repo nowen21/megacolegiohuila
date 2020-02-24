@@ -1,0 +1,1 @@
+[22-Jun-2018 20:45:42 America/Guatemala] PHP Fatal error:  Call to a member function flashdata() on null in /home/marillac/public_html/SIGE/application/views/install/index.php on line 224
